@@ -11,7 +11,7 @@ A Brave/Chrome extension to automate the typing test on `ofmjobs.com`.
 ## Installation Instructions
 
 1. **Download the Extension**:
-   - Download the `OFM_Typing_Cheat.zip` from this repository and extract it, or clone this repo.
+   - You can download the pre-packaged [OFM_Typing_Cheat.zip](https://github.com/tryMighty/typing-test-cheat/blob/master/OFM_Typing_Cheat.zip) directly from this repository and extract it.
 2. **Open Extensions Page**:
    - In Brave/Chrome, go to `brave://extensions/` or `chrome://extensions/`.
 3. **Enable Developer Mode**:
