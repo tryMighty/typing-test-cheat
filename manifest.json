@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "OFM Typing Cheat",
+  "version": "1.0",
+  "description": "Automates the typing test on ofmjobs.com",
+  "permissions": ["storage", "activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://ofmjobs.com/*"],
+      "js": ["content.js"],
+      "css": ["style.css"]
+    }
+  ]
+}

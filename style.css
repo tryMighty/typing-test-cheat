@@ -1,0 +1,15 @@
+/* Injected Button Styles */
+#ofm-cheat-btn:hover {
+    box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+    background-color: #013822 !important;
+}
+
+#ofm-cheat-btn:active {
+    transform: scale(0.95);
+}
+
+#ofm-cheat-btn:disabled {
+    background-color: #6b6e6f !important;
+    cursor: not-allowed;
+    opacity: 0.8;
+}
